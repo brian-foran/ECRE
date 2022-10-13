@@ -426,6 +426,14 @@ hr {
 .team-social .social-google a:hover{background: #333;}
 .team-social .social-vimeo a:hover{background: #71c6f3;}
 
+/* ===========================
+--- images
+============================ */
+
+img {
+  width: 300px;
+  height: auto;
+}
 
 /* ===========================
 --- Services
