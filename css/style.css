@@ -430,8 +430,13 @@ hr {
 --- images
 ============================ */
 
-img {
+.image1 {
   width: 300px;
+  height: auto;
+}
+
+.image2 {
+  width: 600px;
   height: auto;
 }
 
