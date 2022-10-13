@@ -305,12 +305,12 @@ hr {
 	width:100%;
 	position:relative;
 	background-image:    url(../img/bg1.jpeg);
-    	background-size:     contain;                      	background-repeat:   no-repeat;
+    	background-size:     cover;                      	background-repeat:   no-repeat;
     	background-position: center center; 
 }
 
 #intro.intro {
-	padding:20% 0 0 0;
+	padding:2% 0 0 0;
 }
 
 .intro .slogan {
@@ -331,7 +331,7 @@ hr {
 }
 
 .intro .slogan h2 {
-	color: #67B0D1;
+	color: #4CAF50;
 	text-shadow: none;
 	font-size: 60px;
 	line-height: 60px;
@@ -344,7 +344,7 @@ hr {
 	border-color: #000;
 	border-style: none;
 	text-shadow: -1px 0 1px #000;
-	margin-top: 70px;
+	margin-top: 0px;
 }
 
 .intro .slogan h4 {
